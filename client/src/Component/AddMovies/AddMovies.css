@@ -1,0 +1,13 @@
+.addBtn {
+    font-size: 15px 5px;
+    cursor: pointer;
+    margin: 20px 0;
+    color: rgb(249, 189, 8);
+    background-color: black;
+    border-radius: 2rem;
+  }
+  
+  .modalInput {
+    margin: 20px 0;
+  }
+  
